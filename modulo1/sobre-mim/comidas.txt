@@ -1,0 +1,5 @@
+japonesa: teishoku, sukyaki e sushi
+brasileira: feijoada, moqueca e cocada
+italiana: pasta, pizza e risoto
+árabe: esfiha, quibe e bolo de semolina
+francesa: confit de canard, croissant e mocaron  
